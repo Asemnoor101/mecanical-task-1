@@ -16,6 +16,7 @@ Onshape Design Link:  https://cad.onshape.com/documents/5816a4cf4c531985efffbfd8
 For the tea cup, I used the standard measuring tool in Onshape to measure dimensions like height, diameter, and thickness.
 ![image](https://github.com/user-attachments/assets/05233994-ac08-4cad-ad00-935987763d5d)
 
+![لقطة شاشة 2025-01-18 203405](https://github.com/user-attachments/assets/6c1929ac-0887-4306-9571-5599952c6bcf)
 
 
 Onshape Design Link: https://cad.onshape.com/documents/d1c05bbd2b5583c6b44b9b6a/w/5446d7a5063f154a98f32150/e/9af677ebfe05c39543378529?renderMode=0&uiState=678be6487feb67171c7e09b3
