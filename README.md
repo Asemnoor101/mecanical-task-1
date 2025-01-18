@@ -1,0 +1,1 @@
+# mecanical-task-1
